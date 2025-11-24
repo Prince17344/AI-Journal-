@@ -30,3 +30,12 @@ This week I used AI mainly to help me stay on track with my database lab and und
 And similar to last week I also used AI when I wasn’t sure about some of my assignment responses. Instead of just giving me the correct answer, AI explained why my original answers weren’t correct and what I misunderstood. This helped me fix my mistakes myself and actually understand the reasoning, which felt more useful than just being told the right choice.
 
 Outside of class, I continued using AI for internship preparation. I asked for help improving my resume again, focusing on cybersecurity roles and refining my bullet points so they fit those positions better. And overall, AI has been a consistent support tool this week. It helped clear up confusion in my lab work, taught me how to correct my own mistakes, and kept me moving forward with internship preparation. I’m starting to use it more like a tutor and a guide instead of just a shortcut, which is helping me stay organized and build more confidence in my work
+
+
+AI Journal Entry – Week of November 23, 2025
+
+This week I used AI  while working on this personal project for my resume. I asked ChatGPT to help me make sure that my code meets the Project 3 requirements, including inheritance, polymorphism, abstract base classes, and composition. I provided my existing code, and the AI helped me redesign it by suggesting a proper class hierarchy and rewriting several classes to better align with the assignment’s expectations.
+AI also helped me understand the project rubric better. It explained how to structure an abstract base class using Python’s abc module and how to demonstrate polymorphism by overriding a shared method in multiple subclasses. It also clarified composition vs. inheritance, helping me determine when a class should “have” another class vs. extend it.
+I also used AI to review and rewrite portions of my code to improve clarity and meet best practices (such as adding docstrings, implementing type hints, and using super() properly). However, I made sure that the design decisions and final code structure were my own, with AI serving primarily as a tutor, explainer, and code reviewer.
+Overall, I feel like I gained a stronger understanding of how inheritance hierarchies actually work in practice and how polymorphism can simplify code across multiple object types. AI was helpful for explanations and brainstorming, but I made sure to implement and test the logic myself.
+
