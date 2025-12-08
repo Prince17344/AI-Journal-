@@ -39,3 +39,11 @@ AI also helped me understand the project rubric better. It explained how to stru
 I also used AI to review and rewrite portions of my code to improve clarity and meet best practices (such as adding docstrings, implementing type hints, and using super() properly). However, I made sure that the design decisions and final code structure were my own, with AI serving primarily as a tutor, explainer, and code reviewer.
 Overall, I feel like I gained a stronger understanding of how inheritance hierarchies actually work in practice and how polymorphism can simplify code across multiple object types. AI was helpful for explanations and brainstorming, but I made sure to implement and test the logic myself.
 
+
+AI Journal Entry - Week of December 07, 2025
+
+This week I asked AI to summarize a RISC internship job description and help me decide whether I should include my high school candy business experience in the cover letter. AI helped me highlight relevant skills and confirmed that the entrepreneurial experience was worth adding because it showed initiative and financial management.
+
+I also used AI for a quick sports question related to SGP picks for a basketball game. I asked about a betting term in a screenshot and AI explained what “ALT” meant in the context of alternative betting lines. It helped make the sportsbook interface easier to understand.
+
+But overall this week AI helped me organize information and understand topics faster, from internship preparation to interpreting a sports betting term. It didn’t replace my work, but it supported decision-making by breaking things down clearly. This week showed me how useful AI can be for both academic and everyday tasks, as long as I still think through the final decisions myself.
